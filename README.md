@@ -1,3 +1,5 @@
+#NOTE: THIS IS COMPLETELY VIBE-CODED
+
 # India Marketplace MCP Server
 
 A unified MCP server that lets AI assistants search and retrieve listings from **OLX India (olx.in)** and **Facebook Marketplace India**.

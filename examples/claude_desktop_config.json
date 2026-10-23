@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "india-marketplace-mcp": {
+      "command": "node",
+      "args": ["/home/darkshadow/marketplace-mcp/dist/index.js"]
+    }
+  }
+}
